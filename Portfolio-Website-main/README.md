@@ -1,26 +1,64 @@
-## Portfolio-Website
-Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
+Portfolio Website – Jashwanth Namachivayam
 
-<a href="https://jigarsable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+▶ How to Open / Run the Project
 
+Download or clone the project folder
 
-## 📌 Tech Stack
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=html)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=css)&nbsp;
-[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/Portfolio-Website/search?l=javascript)
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+Make sure all files and folders are in the same structure
 
-### Extras : 
-Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
+Open the file named index.html
 
-## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
-![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
+Double-click it or right-click → Open with Browser
+
+The website will open in your default web browser
+
+⚠️ Internet connection is required to load animation libraries (CDN files).
 
 
-<h2>📬 Contact</h2>
+📌 About the Project
 
-Feel free to reach me through the below handles if you'd like to contact me.
+This is my personal portfolio website created to showcase my profile as a Software Engineering student and fresher.
+The website presents my education, skills, certificates, and experience in a structured and professional way using interactive animations.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sablee)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jigarsable.dev)
+The project is built using HTML, CSS, and JavaScript and focuses on clean design, smooth scrolling, and user-friendly presentation.
+
+🛠 Technologies Used
+
+HTML
+
+CSS
+
+JavaScript
+
+jQuery
+
+Typed.js
+
+Particles.js
+
+ScrollReveal.js
+
+📂 Project Structure
+
+index.html – Main website file
+
+assets/css/ – Stylesheet files
+
+assets/js/ – JavaScript and animation files
+
+assets/images/ – Images used in the website
+
+
+🎯 Purpose of the Project
+
+To create a professional online portfolio
+
+To practice front-end web development
+
+To present academic and technical skills clearly
+
+To use animations for better user experience
+
+👤 Author
+
+Jashwanth Namachivayam
